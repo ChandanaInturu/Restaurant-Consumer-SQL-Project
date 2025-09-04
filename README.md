@@ -68,7 +68,6 @@ The objective of this project is to analyze restaurant and consumer datasets to 
 
 ## 🧩 ER Diagram (Schema)
 ![ER Diagram](ER_Diagram.png)  
-*(Replace with your actual ER diagram image in the repo)*  
 
 ---
 
