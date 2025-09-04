@@ -75,7 +75,7 @@ The objective of this project is to analyze restaurant and consumer datasets to 
 ## 👩‍💻 Author
 **Chandana**  
 📊 Aspiring Data Analyst  
-🔗 [LinkedIn Profile](https://www.linkedin.com/) *(Add your profile link here)*  
+🔗 [LinkedIn Profile](https://www.linkedin.com/)  
 
 ---
 
